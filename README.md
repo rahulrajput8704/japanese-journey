@@ -621,6 +621,38 @@ November 5-
 205. Otera (お寺) - temple
 206. Umi (海) - sea / ocean
 
+November 6-# Day 36 - 6 Nov - 10 New Vocab
+
+1. Sengetsu - せんげつ (先月) -Last month
+   Example: Sengetsu wa Nihon ni ikimashita
+
+2. Dare - だれ - who
+   Example: Dare desu ka? - 
+
+3. Tsuki - つき (月) - month,moon
+   Example: Tsuki ga kirei desu - 
+
+4. Raigetsu - らいげつ (来月) - Next month
+   Example: Raigetsu Nihon ni ikimasu -
+
+5. Ryuugakusei - りゅうがくせい (留学生) - International Student
+   Example: Watashi wa ryuugakusei desu
+
+6. Gakuchou - がくちょう (学長) - Principal
+   Example: Gakuchou sensei 
+
+7. Enjinia - エンジニア - Engineer
+   Example: Watashi wa enjinia ni narimasu 
+
+8. Akachan - あかちゃん (赤ちゃん) - Baby
+   Example: Akachan wa kawaii desu -
+
+9. Otona - おとな (大人) - Adult
+   Example: Watashi wa otona desu - 
+
+10. Tenin - てんいん (店員) - Shop Staff
+    Example: Tenin san, kore kudasai - 
+
 
 
 
