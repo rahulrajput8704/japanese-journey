@@ -152,3 +152,19 @@ Total Vocab: 186/800
 5 November - White - 白 (shiro / HAKU)
 Old - 古 (furui / KO)
 
+
+6 November -# 目 - Eye
+
+- **Kanji:** 目
+- **Meaning:** Eye
+- **Onyomi:** モク (moku)
+- **Kunyomi:** め (me)
+
+## Words
+- 目 (め / me) - Eye
+- 目が 大きいです (め が おおきい です) - Eyes are big
+
+## Example Sentence
+私の 目は 黒いです。
+(Watashi no me wa kuroi desu.)
+My eyes are black.
