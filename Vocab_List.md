@@ -194,3 +194,13 @@
 194.hashi
 195.otearai
 196.umi
+197.Sengetsu
+198.dare
+199.tsuki
+200.raigetsu
+201.ryuugakusei
+202.gakuchou
+203.enjinia
+204.akachan
+205.otana
+206.tenin
