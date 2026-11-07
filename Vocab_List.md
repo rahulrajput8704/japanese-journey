@@ -209,7 +209,7 @@
 209.kasa
 210.kaban
 211.ototoshi
-212.maitsuki
+212.maigetsu
 213.shatsu
 214.enpitsu
 215.byou
