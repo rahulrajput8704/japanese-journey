@@ -654,6 +654,22 @@ November 6-# Day 36 - 6 Nov - 10 New Vocab
     Example: Tenin san, kore kudasai - 
 
 
+7 November -
+
+| No. | Japanese | Reading | Meaning |
+| --- | --- | --- | --- |
+| 1 | 何曜日 | なんようび | What day of the week? |
+| 2 | 鳥 | とり | Bird |
+| 3 | 傘 | かさ | Umbrella |
+| 4 | 鞄 | かばん | Bag |
+| 5 | 一昨年 | おととし | Year before last |
+| 6 | 毎月 | まいげつ | Every month |
+| 7 | シャツ | しゃつ | Shirt |
+| 8 | 鉛筆 | えんぴつ | Pencil |
+| 9 | 秒 | びょう | Second |
+| 10 | 靴 | くつ | Shoes |
+
+
 
 
 
