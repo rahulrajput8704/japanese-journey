@@ -204,3 +204,13 @@
 204.akachan
 205.otana
 206.tenin
+207.nanyoubi
+208.tori
+209.kasa
+210.kaban
+211.ototoshi
+212.maitsuki
+213.shatsu
+214.enpitsu
+215.byou
+216.kutsu
