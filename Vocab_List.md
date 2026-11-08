@@ -214,3 +214,13 @@
 214.enpitsu
 215.byou
 216.kutsu
+217.kamera
+218.aisukuriimu
+219.chokoreeto
+220.tesuto
+221.supootsu
+222.astui
+223.samui
+224.hayai
+225.osoi
+226.sakkaa
