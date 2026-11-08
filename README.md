@@ -669,6 +669,29 @@ November 6-# Day 36 - 6 Nov - 10 New Vocab
 | 9 | 秒 | びょう | Second |
 | 10 | 靴 | くつ | Shoes |
 
+8 November -# N5 Vocab - Total 226 Done
+
+### Katakana - 6 Words
+1. カメラ - kamera - Camera
+2. アイスクリーム - aisukuriimu - Ice cream
+3. チョコレート - chokoreeto - Chocolate
+4. テスト - tesuto - Test
+5. スポーツ - supootsu - Sports
+6. サッカー - sakkaa - Football / Soccer
+
+### Hiragana - 4 Words (i-adjectives)
+7. あつい - atsui - Hot
+8. さむい - samui - Cold
+9. はやい - hayai - Fast / Early
+10. おそい - osoi - Slow / Late
+
+### Kanji - 2 Words
+1. 高 - たかい / takai - Tall / High / Expensive
+   Example: たかい ビル - Tall building
+2. 安 - やすい / yasui - Cheap
+   Example: やすい パン - Cheap bread
+
+Total: 216 + 10 = 226 N5 Vocab Done
 
 
 
