@@ -39,3 +39,6 @@
 39.old
 40.Eye
 41.big,large
+42.Exit
+43.Stand
+44.Small
