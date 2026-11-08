@@ -168,3 +168,7 @@ Old - 古 (furui / KO)
 私の 目は 黒いです。
 (Watashi no me wa kuroi desu.)
 My eyes are black.
+
+8 November -出 - でる - to go out
+立 - たつ - to stand
+小 - ちいさい - small
