@@ -40,3 +40,11 @@
 | 8. | タクシー | takushii | Taxi |
 | 9. | バッグ | baggu | Bag |
 | 10. | ごはん | gohan | Rice / Meal |
+
+
+## Kanji Learned
+
+| Kanji | Meaning | Onyomi | Kunyomi | Example |
+| :--- | :--- | :--- | :--- | :--- |
+| 母 | mother | ボ | はは | お母さん (okaasan) - mother |
+| 見 | see, look | ケン | みる | 見る (miru) - to see |
