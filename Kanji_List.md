@@ -42,3 +42,5 @@
 42.Exit
 43.Stand
 44.Small
+45.mother
+46.see,look
