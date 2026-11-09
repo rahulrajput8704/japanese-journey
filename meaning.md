@@ -22,3 +22,21 @@
 | 小 | chiisai | Small |
 | 出 | deru / dasu | Exit / Go out |
 | 立 | tatsu | Stand |
+
+
+9 nov 2026-
+
+## 10 Vocab - Katakana + N5
+
+| No. | Kana | Romaji | Meaning |
+| --- | --- | --- | --- |
+| 1. | ミルク | miruku | Milk |
+| 2. | テーブル | teeburu | Table |
+| 3. | バス | basu | Bus |
+| 4. | ケーキ | keeki | Cake |
+| 5. | アパート | apaato | Apartment |
+| 6. | サラダ | sarada | Salad |
+| 7. | ガソリン | gasorin | Petrol |
+| 8. | タクシー | takushii | Taxi |
+| 9. | バッグ | baggu | Bag |
+| 10. | ごはん | gohan | Rice / Meal |
