@@ -224,3 +224,13 @@
 224.hayai
 225.osoi
 226.sakkaa
+227.miruku
+228.teeburu
+229.basu
+230.takushii
+231.keeki
+232.apaato
+233.sarada
+234.gasorin
+235.baggu
+236.gohan
