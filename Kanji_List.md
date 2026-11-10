@@ -44,3 +44,5 @@
 44.Small
 45.mother
 46.see,look
+47.enter,input
+48.life,birth, student 
