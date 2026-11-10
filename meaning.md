@@ -48,3 +48,20 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 母 | mother | ボ | はは | お母さん (okaasan) - mother |
 | 見 | see, look | ケン | みる | 見る (miru) - to see |
+
+
+10 nov 2026-
+
+| No. | Romaji | Japanese | Meaning |
+| --- | --- | --- | --- |
+| 1 | gyuunyuu | 牛乳 | Milk |
+| 2 | kudamono | 果物 | Fruit |
+| 3 | yasai | 野菜 | Vegetable |
+| 4 | keshigomu | 消しゴム | Eraser |
+| 5 | itsumo | いつも | Always |
+| 6 | oyasuminasai | おやすみなさい | Good Night |
+| 7 | koucha | 紅茶 | Black Tea |
+| 8 | ami | 網 | Net |
+| 9 | tenki | 天気 | Weather |
+| 10 | ringo | りんご | Apple |
+
