@@ -234,3 +234,13 @@
 234.gasorin
 235.baggu
 236.gohan
+237.gyuunyuu
+238.kudamono
+239.yasai
+240.keshigomu
+241.itsumo
+242.oyasuminasai
+243.koucha
+244.ami
+245.tenki
+246.ringo
