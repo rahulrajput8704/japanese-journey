@@ -65,3 +65,21 @@
 | 9 | tenki | 天気 | Weather |
 | 10 | ringo | りんご | Apple |
 
+
+
+# Kanji 
+
+## 1. 生 - Life / Birth / Student
+
+- **Onyomi:** セイ (sei), ショウ (shou)
+- **Kunyomi:** い (i), う (u), なま (nama), は (ha)
+
+
+
+## 2. 入 - Enter / Input
+
+- **Onyomi:** ニュウ (nyuu)
+- **Kunyomi:** はい (hai), い (i)
+
+
+
