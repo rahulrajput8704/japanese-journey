@@ -98,3 +98,9 @@
 | 10 | tanjoubi | 誕生日 (たんじょうび) | Birthday |
 
 
+
+#  Kanji 
+
+## 1. 男 - Male / Man
+
+## 2. 女 - Woman / Female
