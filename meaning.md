@@ -82,4 +82,19 @@
 - **Kunyomi:** はい (hai), い (i)
 
 
+11 nov 2026-
+
+| No. | Romaji | Japanese | Meaning |
+| --- | --- | --- | --- |
+| 1 | senshuu | 先週 (せんしゅう) | Last week |
+| 2 | taishikan | 大使館 (たいしかん) | Embassy |
+| 3 | kyokai | 教会 (きょうかい) | Church |
+| 4 | koujou | 工場 (こうじょう) | Factory |
+| 5 | okaasan | お母さん (おかあさん) | Mother |
+| 6 | otousan | お父さん (おとうさん) | Father |
+| 7 | nanji | 何時 (なんじ) | What time |
+| 8 | kissaten | 喫茶店 (きっさてん) | Cafe / Coffee shop |
+| 9 | heijitsu | 平日 (へいじつ) | Weekday |
+| 10 | tanjoubi | 誕生日 (たんじょうび) | Birthday |
+
 
