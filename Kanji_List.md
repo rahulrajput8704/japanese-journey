@@ -46,3 +46,5 @@
 46.see,look
 47.enter,input
 48.life,birth, student 
+49.male,man
+50.female, woman 
