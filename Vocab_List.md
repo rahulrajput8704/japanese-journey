@@ -244,3 +244,13 @@
 244.ami
 245.tenki
 246.ringo
+247.senshuu
+248.taishikan
+249.kyokai
+250.koujou
+251.okaasan
+252.otousan
+253.nanji
+254.kissaten
+255.heijitsu
+256.tanjoubi
