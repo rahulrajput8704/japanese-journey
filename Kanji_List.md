@@ -48,3 +48,5 @@
 48.life,birth, student 
 49.male,man
 50.female, woman 
+51.north
+52.ear
