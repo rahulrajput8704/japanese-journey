@@ -104,3 +104,10 @@
 ## 1. 男 - Male / Man
 
 ## 2. 女 - Woman / Female
+
+
+12 nov 2026- kanji
+
+## 1. Ear - 耳
+
+## 2. North - 北
