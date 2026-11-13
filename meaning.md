@@ -125,3 +125,11 @@
 8. 草 - Kusa - Grass
 9. 川 - Kawa - River
 10. 火事 - Kaji - Fire / Fire Accident
+
+# Kanji
+
+| Kanji | Reading | Meaning |
+| --- | --- | --- |
+| 天 | Ten / Sora | Heaven, Sky |
+| 手 | Te | Hand |
+
