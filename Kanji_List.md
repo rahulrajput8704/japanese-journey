@@ -50,3 +50,5 @@
 50.female, woman 
 51.north
 52.ear
+53.hand
+54.heaven,sky
