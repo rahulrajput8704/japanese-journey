@@ -111,3 +111,17 @@
 ## 1. Ear - 耳
 
 ## 2. North - 北
+
+
+13 nov 2026-
+
+1. スマホ - Sumaho - Smartphone
+2. コンピューター - Konpyuutaa - Computer
+3. クラス - Kurasu - Class
+4. テニス - Tenisu - Tennis
+5. ギター - Gitaa - Guitar
+6. 木 - Ki - Tree
+7. 花 - Hana - Flower
+8. 草 - Kusa - Grass
+9. 川 - Kawa - River
+10. 火事 - Kaji - Fire / Fire Accident
