@@ -241,7 +241,7 @@
 241.itsumo
 242.oyasuminasai
 243.koucha
-244.ami
+244.ame
 245.tenki
 246.ringo
 247.senshuu
@@ -254,3 +254,13 @@
 254.kissaten
 255.heijitsu
 256.tanjoubi
+257.ki
+258.hana
+259.kusa
+260.kawa
+261.kaji
+262.sumaho
+263.konpyuutaa
+264.kurasu
+265.tenisu
+266.gitaa
