@@ -264,3 +264,13 @@
 264.kurasu
 265.tenisu
 266.gitaa
+267.jinzu
+268.seeta
+269.hoshi
+270.ishi
+271.mori
+272.sukaato
+273.zubon
+274.shizen
+275.wampiisu
+276.suna
