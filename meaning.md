@@ -148,3 +148,9 @@
 | 8 | ズボン | zubon | Pants |
 | 9 | 自然 | shizen | Nature |
 | 10 | スカート | sukaato | Skirt |
+
+
+
+| Kanji | Reading | Meaning |
+| --- | --- | --- |
+| 少 | sukunai / shou | Few / Little |
