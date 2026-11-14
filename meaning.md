@@ -133,3 +133,18 @@
 | 天 | Ten / Sora | Heaven, Sky |
 | 手 | Te | Hand |
 
+
+14 nov 2026-
+
+| No. | Japanese | Romaji | Matlab |
+| --- | --- | --- | --- |
+| 1 | ジーンズ | jiinzu | Jeans |
+| 2 | セーター | seetaa | Sweater |
+| 3 | ワンピース | wanpiisu | Dress |
+| 4 | 星 | hoshi | Star |
+| 5 | 森 | mori | Forest |
+| 6 | 砂 | suna | Sand |
+| 7 | 石 | ishi | Stone |
+| 8 | ズボン | zubon | Pants |
+| 9 | 自然 | shizen | Nature |
+| 10 | スカート | sukaato | Skirt |
