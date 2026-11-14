@@ -52,3 +52,4 @@
 52.ear
 53.hand
 54.heaven,sky
+55.few,little
