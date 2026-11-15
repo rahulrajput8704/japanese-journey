@@ -272,5 +272,5 @@
 272.sukaato
 273.zubon
 274.shizen
-275.wampiisu
+275.wanpiisu
 276.suna
