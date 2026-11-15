@@ -274,3 +274,14 @@
 274.shizen
 275.wanpiisu
 276.suna
+277.sora
+278.taiyou
+279.nami
+280.chikyuu
+281.shima
+282.mizuumi
+283.sekai
+284.bideo
+285.rajio
+286.amerika
+287.zero
