@@ -154,3 +154,21 @@
 | Kanji | Reading | Meaning |
 | --- | --- | --- |
 | 少 | sukunai / shou | Few / Little |
+
+
+15 nov 2026-
+
+| No. | Japanese | Romaji | Matlab |
+| --- | --- | --- | --- |
+| 1 | ゼロ | zero | Zero |
+| 2 | そら / 空 | sora | Aasmaan / Sky |
+| 3 | たいよう / 太陽 | taiyou | Suraj / Sun |
+| 4 | しま / 島 | shima | Dweep / Island |
+| 5 | みずうみ / 湖 | mizuumi | Jheel / Lake |
+| 6 | せかい / 世界 | sekai | Duniya / World |
+| 7 | ちきゅう / 地球 | chikyuu | Prithvi / Earth |
+| 8 | なみ / 波 | nami | Leher / Wave |
+| 9 | ビデオ | bideo | Video |
+| 10 | ラジオ | rajio | Radio |
+| 11 | アメリカ | amerika | America |
+
