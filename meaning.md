@@ -172,3 +172,11 @@
 | 10 | ラジオ | rajio | Radio |
 | 11 | アメリカ | amerika | America |
 
+
+
+## 1. 行
+- Reading: Iku / Yuku / Gyou
+- Meaning: To Go / Jaana
+- Example: 行きます (Ikimasu) - To go
+
+
