@@ -206,5 +206,16 @@
 9. **Kicchin (キッチン)** - Kitchen
 
 10. **Roshia (ロシア)** - Russia
+
+
+
+# New Kanji - To Come
+
+## 1. 来 - KURU / to come
+
+**Kanji:** 来
+**Meaning:** To come
+
+
    
 
