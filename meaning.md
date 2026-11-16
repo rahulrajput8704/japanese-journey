@@ -180,3 +180,31 @@
 - Example: 行きます (Ikimasu) - To go
 
 
+16 nov
+
+1. **Sen (千 / セン)
+   Example: Sen-en - 1000 yen
+
+2. **Man (万 / マン)** 
+   Example: Ichi-man-en - 10,000 yen
+
+3. **En (円 / エン)**
+   Example: Hyaku-en - 100 yen
+
+4. **Ban (番 / バン)** 
+   Example: Ichi-ban - Number 
+
+5. **Nani (何 / なに)** What
+   Example: Kore wa nani
+
+6. **Botan (ボタン)** - Button
+ 
+7. **Furansu (フランス)** - France
+ 
+8. **Paatii (パーティー)** -
+
+9. **Kicchin (キッチン)** - Kitchen
+
+10. **Roshia (ロシア)** - Russia
+   
+
