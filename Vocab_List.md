@@ -285,3 +285,13 @@
 285.rajio
 286.amerika
 287.zero
+288.sen
+289.man
+290.en
+291.ban
+292.nani
+293.botan
+294.furansu
+295.paatii
+296.kicchin
+297.roshia
