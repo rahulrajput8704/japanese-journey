@@ -7,5 +7,5 @@ Hiragana + Katakana + 226 Vocab + 44 Kanji
 | --- | --- |
 | Hiragana 46 | ✅ Done |
 | Katakana 46 | ✅ Done |
-| Vocab | ✅ 800/ 297 Done |
+| Vocab | ✅ 800/ 302 Done |
 | Kanji | ✅ 105 /57 Done |
