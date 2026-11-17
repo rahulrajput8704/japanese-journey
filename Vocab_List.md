@@ -295,3 +295,8 @@
 295.paatii
 296.kicchin
 297.roshia
+298.natsu
+299.aki
+300.fuyu
+301.yuki
+302.kaze
