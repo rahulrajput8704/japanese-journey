@@ -230,5 +230,9 @@
 5. Kaze (かぜ / 風) - Wind
   
 
+# Kanji 
+
+ 1. East - 東
+
    
 
