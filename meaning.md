@@ -216,6 +216,19 @@
 **Kanji:** 来
 **Meaning:** To come
 
+17 nov 2026
+
+1. Natsu (なつ / 夏) - Summer
+
+2. Aki (あき / 秋) - Autumn
+
+3. Fuyu (ふゆ / 冬) - Winter
+   Example: Fuyu wa samui desu
+
+4. Yuki (ゆき / 雪) - Snow
+  
+5. Kaze (かぜ / 風) - Wind
+  
 
    
 
