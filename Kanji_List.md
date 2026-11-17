@@ -55,3 +55,4 @@
 55.few,little
 56.to go
 57.to come
+58.East
