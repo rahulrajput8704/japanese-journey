@@ -234,5 +234,14 @@
 
  1. East - 東
 
+18 nov 2026-
+
+1. テープレコーダー - teepu rekoodaa - tape recorder
+2. サンドイッチ - sandoicchi - sandwich
+3. テープ - teepu - tape
+4. カタカナ - katakana - katakana
+5. カレンダー - karendaa - calendar
+6. ニュース - nyuusu - news
+
    
 
