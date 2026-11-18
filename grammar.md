@@ -22,3 +22,15 @@ Example:
 
 ## 4. ka (か) - Question Marker
 Sentence ke end me lagao, question ban jayega
+
+## 5. no (の) - Ka / Ki / Ke
+Do nouns ko jodne ke liye, malik batane ke liye
+
+Example:
+- Watashi no hon desu. - Mera book hai
+
+## 6. mo (も) - Bhi / Also
+Wa ki jagah aata hai, jab same cheez dusre ke liye bhi ho
+
+Example:
+- Watashi wa gakusei desu. Tomodachi mo gakusei desu.
