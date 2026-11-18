@@ -56,3 +56,4 @@
 56.to go
 57.to come
 58.East
+59.Rest,holiday
