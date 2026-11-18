@@ -300,3 +300,9 @@
 300.fuyu
 301.yuki
 302.kaze
+303.teepu rekooda
+304.sandoichi
+305.teepu
+306.karendaa
+307.nyuusu
+308.katakana
