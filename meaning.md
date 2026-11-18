@@ -243,5 +243,10 @@
 5. カレンダー - karendaa - calendar
 6. ニュース - nyuusu - news
 
-   
 
+# Kanji - 1. Rest Holiday
+
+## 休日 - kyuujitsu - rest holiday / day off
+
+### Kanji 1: 休-rest/holiday
+- 
