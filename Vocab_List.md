@@ -306,3 +306,8 @@
 306.karendaa
 307.nyuusu
 308.katakana
+309.miitingu
+310.peeji
+311.hankachi
+312.beddo
+313.posuto
