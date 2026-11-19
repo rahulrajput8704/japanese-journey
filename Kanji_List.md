@@ -57,3 +57,4 @@
 57.to come
 58.East
 59.Rest,holiday
+60.west
