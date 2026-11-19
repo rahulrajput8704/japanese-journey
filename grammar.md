@@ -34,3 +34,15 @@ Wa ki jagah aata hai, jab same cheez dusre ke liye bhi ho
 
 Example:
 - Watashi wa gakusei desu. Tomodachi mo gakusei desu.
+
+
+#7. kore/sore/are
+
+## Affirmative
+Kore wa hon desu.
+
+## Interrogative
+Kore wa nan desu ka?
+
+## Negative
+Kore wa hon ja arimasen.
