@@ -249,4 +249,12 @@
 ## 休日 - kyuujitsu - rest holiday / day off
 
 ### Kanji 1: 休-rest/holiday
+
+
+19 nov 2026-
+1. miitingu - meeting - ミーティング
+2. posuto - postbox - ポスト
+3. beddo - bed - ベッド
+4. peeji - page - ページ
+5. hankachi - handkerchief - ハンカチ
 - 
