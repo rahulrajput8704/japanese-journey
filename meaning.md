@@ -258,3 +258,6 @@
 4. peeji - page - ページ
 5. hankachi - handkerchief - ハンカチ
 - 
+
+# N5 Kanji
+1. 西 - nishi - west
