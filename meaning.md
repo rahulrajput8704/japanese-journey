@@ -264,4 +264,14 @@
 
 
 20 nov 2026-
+
+# N5 Vocab
+1. kooto - coat - コート
+2. aisu - ice / ice-cream - アイス
+3. burajiru - Brazil - ブラジル
+4. megane - glasses - メガネ
+5. boorupen - ballpoint pen - ボールペン
+
+
+#kanji
 1. 車 - kuruma - car - 電車 (densha - train)
