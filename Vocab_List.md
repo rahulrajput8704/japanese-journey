@@ -311,8 +311,8 @@
 311.hankachi
 312.beddo
 313.posuto
-318.kooto
-319.aisu
-320.burajiru
-321.megane
-322.boorupen
+314.kooto
+315.aisu
+316.burajiru
+317.megane
+318.boorupen
