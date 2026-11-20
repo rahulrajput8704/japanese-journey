@@ -261,3 +261,7 @@
 
 # N5 Kanji
 1. 西 - nishi - west
+
+
+20 nov 2026-
+1. 車 - kuruma - car - 電車 (densha - train)
