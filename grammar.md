@@ -46,3 +46,15 @@ Kore wa nan desu ka?
 
 ## Negative
 Kore wa hon ja arimasen.
+
+
+#8 koko/asoko/doko/soko
+
+
+## Examples
+-- ここは 学校です。(koko wa gakkou desu) - Yahan school hai.
+-- そこは 図書館です。(soko wa toshokan desu) - Wahan library hai.
+-- あそこは 駅です。(asoko wa eki desu) - Wahan door station hai.
+-- どこは トイレですか？(doko wa toire desu ka?) - Toilet kahan hai? - Wrong, sahi neeche hai
+-- トイレは どこですか？(toire wa doko desu ka?) - Toilet kahan hai?
+
