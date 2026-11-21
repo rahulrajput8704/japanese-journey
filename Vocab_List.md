@@ -318,6 +318,6 @@
 318.boorupen
 319.wakasu
 320.manshon
-321.aisu
+321.erebeetaa
 322.uru
 323.asobu
