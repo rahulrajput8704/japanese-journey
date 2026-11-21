@@ -59,3 +59,4 @@
 59.Rest,holiday
 60.west
 61.car
+62.rain
