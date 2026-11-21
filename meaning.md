@@ -278,5 +278,30 @@
 
 
 21 nov 2026-
-1. 雨 - あめ - Rain
-Ex: あめが ふります。
+
+# Japanese Vocab - 5 Words
+
+| No. | Romaji | Kana / Kanji | Meaning |
+| --- | --- | --- | --- |
+| 1 | asobu | 遊ぶ | to play |
+| 2 | uru | 売る | to sell |
+| 3 | wakasu | 沸かす | to boil |
+| 4 | manshon | マンション | apartment / mansion |
+| 5 | aisu | アイス | ice / ice cream |
+
+
+# Japanese Vocab - 5 Words + 1 Kanji
+
+## Vocab
+
+| No. | Romaji | Kana / Kanji | Meaning |
+| --- | --- | --- | --- |
+| 1 | asobu | 遊ぶ | to play |
+| 2 | uru | 売る | to sell |
+| 3 | wakasu | 沸かす | to boil |
+| 4 | manshon | マンション | apartment / mansion |
+| 5 | aisu | アイス | ice / ice cream |
+
+## Kanji
+
+- Kanji: 雨
