@@ -275,3 +275,8 @@
 
 #kanji
 1. 車 - kuruma - car - 電車 (densha - train)
+
+
+21 nov 2026-
+1. 雨 - あめ - Rain
+Ex: あめが ふります。
