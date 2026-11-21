@@ -316,3 +316,8 @@
 316.burajiru
 317.megane
 318.boorupen
+319.wakasu
+320.manshon
+321.aisu
+322.uru
+323.asobu
