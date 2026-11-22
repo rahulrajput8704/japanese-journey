@@ -309,3 +309,15 @@
 
 22 nov 2026-
  国 - くに - country - にほん (Japan)
+
+
+# Japanese Vocab 
+
+| No. | Word | Romaji | Meaning | Example |
+| --- | --- | --- | --- | --- |
+| 1 | どこ | doko | Kahan / Where | Doko desu ka? - Kahan hai? |
+| 2 | 私たち | watashitachi | Hum / We | Watashitachi wa tomodachi desu - Hum dost hain |
+| 3 | 彼 | kare | Wo (ladka) / He | Kare wa sensei desu - Wo teacher hai |
+| 4 | ワイン | wain | Wine | Wain wo nomimasu - Wine peeta hun |
+| 5 | カップ | kappu | Cup | Kappu ni mizu - Cup me paani |
+
