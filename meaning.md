@@ -305,3 +305,7 @@
 ## Kanji
 
 - Kanji: 雨
+
+
+22 nov 2026-
+ 国 - くに - country - にほん (Japan)
