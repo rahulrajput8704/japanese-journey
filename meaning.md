@@ -321,3 +321,11 @@
 | 4 | ワイン | wain | Wine | Wain wo nomimasu - Wine peeta hun |
 | 5 | カップ | kappu | Cup | Kappu ni mizu - Cup me paani |
 
+
+23 nov 2026-
+
+#kanji 
+
+## 足 - ashi / taru
+Meaning: foot, leg, enough
+
