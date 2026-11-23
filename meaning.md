@@ -329,3 +329,11 @@
 ## 足 - ashi / taru
 Meaning: foot, leg, enough
 
+
+#vocab
+{"koppu": "コップ - Cup"},
+{"igirisu": "イギリス - UK"},
+{"nekutai": "ネクタイ - Tie"},
+{"kaado": "カード - Card"},
+{"doitsu": "ドイツ - Germany"}
+
