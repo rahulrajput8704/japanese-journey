@@ -58,3 +58,5 @@ Kore wa hon ja arimasen.
 -- どこは トイレですか？(doko wa toire desu ka?) - Toilet kahan hai? - Wrong, sahi neeche hai
 -- トイレは どこですか？(toire wa doko desu ka?) - Toilet kahan hai?
 
+#9 doko/dochira/no
+
