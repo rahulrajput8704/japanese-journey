@@ -326,3 +326,8 @@
 326.kare
 327.wain
 328.kappu
+329.koppu
+330.igirisu
+331.nekutai
+332.kaado
+333.doitsu
