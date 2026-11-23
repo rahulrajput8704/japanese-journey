@@ -61,4 +61,4 @@
 61.car
 62.rain
 63.country
-64.kanji
+64.foot,leg, enough 
