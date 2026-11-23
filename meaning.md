@@ -337,3 +337,10 @@ Meaning: foot, leg, enough
 {"kaado": "カード - Card"},
 {"doitsu": "ドイツ - Germany"}
 
+
+#grammar
+
+- doko = kahan hai? (casual) - Gakkou wa doko desu ka?
+- dochira = kidhar hai? (polite) - Gakkou wa dochira desu ka?
+- no = ka/ki/ke (possession) - Watashi no hon = Meri kitaab
+
