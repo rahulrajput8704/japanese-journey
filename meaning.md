@@ -350,3 +350,14 @@ Meaning: foot, leg, enough
 #kanji
  年 - Year
 
+
+# Japanese Vocab
+
+| No. | Japanese | Romaji | Meaning | Example |
+| --- | --- | --- | --- | --- |
+| 1 | ガラス | garasu | Glass | ガラスを割らないで - Don't break the glass |
+| 2 | 好き | suki | To like / Favourite | 犬が好きです - I like dogs |
+| 3 | 人種 | jinshu | Race / Ethnic group | 人種は関係ない - Race doesn't matter |
+| 4 | 若者 | wakamono | Young person / Youth | 若者は元気だ - Young people are energetic |
+| 5 | 春 | haru | Spring | 春が好きです - I like spring |
+
