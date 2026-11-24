@@ -344,3 +344,9 @@ Meaning: foot, leg, enough
 - dochira = kidhar hai? (polite) - Gakkou wa dochira desu ka?
 - no = ka/ki/ke (possession) - Watashi no hon = Meri kitaab
 
+
+
+24 November 2026-
+#kanji
+ 年 - Year
+
