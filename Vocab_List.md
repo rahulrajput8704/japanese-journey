@@ -331,3 +331,8 @@
 331.nekutai
 332.kaado
 333.doitsu
+334.gurasu
+335.sukii
+336.jinshu
+337.wakamono
+338.haru
