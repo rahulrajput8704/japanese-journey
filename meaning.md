@@ -364,3 +364,9 @@ Meaning: foot, leg, enough
 
 25 November 2026-
  南 - minami - south - 南口 (minamiguchi - south entrance)
+
+1. 休日 - きゅうじつ (kyuujitsu) - holiday - きゅうじつは いえで ねます
+2. 受付 - うけつけ (uketsuke) - reception - うけつけで まっています
+3. 着く - つく (tsuku) - to arrive - 8じに がっこうに つきます
+4. 入る - はいる (hairu) - to enter - へやに はいります
+5. 出る - でる (deru) - to go out - いえを でます
