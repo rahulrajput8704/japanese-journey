@@ -336,3 +336,8 @@
 336.jinshu
 337.wakamono
 338.haru
+339.kyuujitsu
+340.ukestuke
+341.tsuku
+342.hairu
+343.deru
