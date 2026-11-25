@@ -361,3 +361,6 @@ Meaning: foot, leg, enough
 | 4 | 若者 | wakamono | Young person / Youth | 若者は元気だ - Young people are energetic |
 | 5 | 春 | haru | Spring | 春が好きです - I like spring |
 
+
+25 November 2026-
+ 南 - minami - south - 南口 (minamiguchi - south entrance)
