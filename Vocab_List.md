@@ -72,7 +72,7 @@
 72. onna
 73. otokonoko
 74. onnanoko
-75. kaishan
+75. kaishain 
 76. shain
 77. asatte
 78. ginkouin
@@ -337,7 +337,7 @@
 337.wakamono
 338.haru
 339.kyuujitsu
-340.ukestuke
+340.uketsuke
 341.tsuku
 342.hairu
 343.deru
