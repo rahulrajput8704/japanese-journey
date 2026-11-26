@@ -375,3 +375,12 @@ Meaning: foot, leg, enough
 
 学校 (がっこう - gakkou) = School
 
+
+## Japanese Vocab
+
+1. **Nakusu (なくす)** - Khona / Lose karna
+2. **Hirou (ひろう)** - Uthana / Pick up karna
+3. **Noboru (のぼる)** - Chadna / Climb karna
+4. **Tomeru (とめる)** - Rokna / Stop karna
+5. **Isogu (いそぐ)** - Jaldi karna / Hurry karna
+
