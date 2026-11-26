@@ -60,3 +60,11 @@ Kore wa hon ja arimasen.
 
 #9 doko/dochira/no
 
+
+#10
+
+ Groups ✅*
+Group 2: たべます, みます, おきます, ねます | Group 3: します, きます | 
+Rule: Group 2  ます hatao = たべない, Group 1 me i ko a banao = かきます -> かかない
+
+
