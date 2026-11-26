@@ -341,3 +341,8 @@
 341.tsuku
 342.hairu
 343.deru
+344.nakusu
+345.hirou
+346.noburu
+347.tomeru
+348.isogu
