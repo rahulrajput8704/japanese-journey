@@ -64,3 +64,4 @@
 64.foot,leg, enough 
 65.year
 66.south
+67.school
