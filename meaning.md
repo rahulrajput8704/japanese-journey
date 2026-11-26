@@ -370,3 +370,8 @@ Meaning: foot, leg, enough
 3. 着く - つく (tsuku) - to arrive - 8じに がっこうに つきます
 4. 入る - はいる (hairu) - to enter - へやに はいります
 5. 出る - でる (deru) - to go out - いえを でます
+
+26 November 2026-
+
+学校 (がっこう - gakkou) = School
+
