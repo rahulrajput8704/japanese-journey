@@ -68,3 +68,8 @@ Group 2: たべます, みます, おきます, ねます | Group 3: します, 
 Rule: Group 2  ます hatao = たべない, Group 1 me i ko a banao = かきます -> かかない
 
 
+
+#11# Dictionary Form (辞書形)
+
+ます hatake U wala kana lagao. Group 2 me bas る lagta hai (たべます -> たべる), Group 3 me します -> する, きます -> くる.
+Example: のみます -> のむ, はなします -> はなす, かきます -> かく, よみます -> よむ, いきます -> いく.
