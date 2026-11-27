@@ -384,3 +384,8 @@ Meaning: foot, leg, enough
 4. **Tomeru (とめる)** - Rokna / Stop karna
 5. **Isogu (いそぐ)** - Jaldi karna / Hurry karna
 
+
+27 November 2026-
+
+Kanji: 黒
+Meaning: Black
