@@ -389,3 +389,10 @@ Meaning: foot, leg, enough
 
 Kanji: 黒
 Meaning: Black
+
+
+28 November 2026- 
+#kanji 
+ 先
+Meaning: Before, Ahead
+
