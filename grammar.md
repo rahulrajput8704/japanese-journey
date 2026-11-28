@@ -73,3 +73,7 @@ Rule: Group 2  ます hatao = たべない, Group 1 me i ko a banao = かきま�
 
 ます hatake U wala kana lagao. Group 2 me bas る lagta hai (たべます -> たべる), Group 3 me します -> する, きます -> くる.
 Example: のみます -> のむ, はなします -> はなす, かきます -> かく, よみます -> よむ, いきます -> いく.
+
+
+#12#
+*Day 4 - Group 1 Te-form:* み・び・に -> んで (のんで), い・ち・り -> って (かって), き -> いて / ぎ -> いで (かいて), し -> して (はなして).
